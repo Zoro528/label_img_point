@@ -1,7 +1,5 @@
 # label_img_point
 
----
-
 Annotate images for counting problems such as crowd counting.
 It is written in Python and uses tkinter for its graphical interface.
 
@@ -11,17 +9,13 @@ Points are saved as txt files.
 
 ## Installation
 
----
-
 Linux/Ubuntu/Mac requires at least Python 3
 
 Open cmd and go to the label_img_point directory
 
-```python label_tool.py```
+`python label_tool.py`
 
 ## Usage
-
----
 
 ### Steps
 
