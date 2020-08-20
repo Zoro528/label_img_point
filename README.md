@@ -2,7 +2,6 @@
 
 Annotate images for counting problems such as crowd counting.
 It is written in Python and uses tkinter for its graphical interface.
-
 Points are saved as txt files.
 
 ![Image text](./example.png)
@@ -13,7 +12,10 @@ Linux/Ubuntu/Mac requires at least Python 3
 
 Open cmd and go to the label_img_point directory
 
-`python label_tool.py`
+```
+pip install pillow
+python label_tool.py
+```
 
 ## Usage
 
@@ -37,6 +39,6 @@ Send a pull request
 
 ## License
 
-Free software: MIT license
+[Free software: MIT license](https://github.com/Zoro528/label_img_point/blob/master/LICENSE)
 
 Citation: zoro528. Git code (2020). https://github.com/Zoro528/label_img_point
